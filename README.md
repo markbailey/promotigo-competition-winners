@@ -4,28 +4,23 @@ technical assesssment
 
 To run this project you will need the following installed
 
-`dotnet sdk`
-`node 16`
+1. `dotnet sdk`
 
-### Database
+2. `node 16`
 
-To setup the database run the following command in the console
-from the server directory.
+### Setup
 
-`dotnet ef database update`
+To setup the project pre-launch run the following command in the console
+from the root directory. This will install the node_modules for the client
+and create and populate the database for the server.
 
-### Server
+`npm run setup`
 
-To run the server enter the following command in the console
+### Concurrently run Server and Client apps
+
+To run the server and clients apps concurrently enter the following command in the console
 from the projects root directory.
 
-`dotnet run --project server`
+`npm start`
 
-### Client
-
-To run the client application run the following command in the console
-from the client directory.
-
-`npm run dev`
-
-Then hold CTRL & click on the link in the console window.
+Then hold CTRL & click on the link in the console to open the client app in the browser.
