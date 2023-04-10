@@ -120,15 +120,12 @@ export function Provider(props: PropsWithChildren) {
     dispatch({ type: Action.SetIsLoading, payload: true });
 
     const winners = await api.drawCompetitionsWinners(competitionId, playerIds);
-    const payload = { winners, isLoading: false };
-    const competition = state.competition;
+    const newCompetition =
+      state.competition !== null
+        ? { ...state.competition, winnersDrawn: winners.length > 0 }
+        : null;
 
-    if (competition !== null)
-      dispatch({
-        type: Action.SetCompetition,
-        payload: { ...competition, winnersDrawn: winners.length > 0 },
-      });
-
+    const payload = { competition: newCompetition, winners, isLoading: false };
     dispatch({ type: Action.SetState, payload });
   };
 
