@@ -1,0 +1,29 @@
+{
+  "name": "promotigo",
+  "version": "1.0.0",
+  "description": "technical assesssment",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm run setup:server && npm run setup:client",
+    "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
+    "start:server": "dotnet run --project server",
+    "start:client": "cd ./client && npm run dev",
+    "setup:server": "cd ./server && dotnet ef database update",
+    "setup:client": "cd ./client && npm install",
+    "test": "cd ./client && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbailey/promotigo-competition-winners.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markbailey/promotigo-competition-winners/issues"
+  },
+  "homepage": "https://github.com/markbailey/promotigo-competition-winners#readme",
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
