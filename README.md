@@ -10,7 +10,7 @@ To run this project you will need the following installed
 
 ### Setup
 
-To setup the project pre-launch run the following command in the console
+To setup the project pre-launch, run the following command in the console
 from the root directory. This will install the node_modules for the client
 and create and populate the database for the server.
 
@@ -18,7 +18,7 @@ and create and populate the database for the server.
 
 ### Concurrently run Server and Client apps
 
-To run the server and clients apps concurrently enter the following command in the console
+To run the server and client apps concurrently enter the following command in the console
 from the projects root directory.
 
 `npm start`
@@ -27,7 +27,7 @@ Then hold CTRL & click on the link in the console to open the client app in the 
 
 ### Testing
 
-To run the suit of tests, enter the following ocmmand in the console from the project
+To run the suit of tests, enter the following command in the console from the project
 root directory.
 
 `npm run test`
