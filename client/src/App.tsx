@@ -30,13 +30,17 @@ function App() {
     if (terminateNow) return;
 
     const newWinnerIds: string[] = [];
-    for (let i = 1; i <= count; i++) {
+    let i = 1;
+
+    while (i <= count) {
       const randomIndex = Math.floor(Math.random() * playerIds.length);
-      if (!newWinnerIds.includes(playerIds[randomIndex])) newWinnerIds.push(playerIds[randomIndex]);
+      if (!newWinnerIds.includes(playerIds[randomIndex])) {
+        newWinnerIds.push(playerIds[randomIndex]);
+        i++;
+      }
     }
 
     drawCompetitionWinners(competition.id, newWinnerIds);
-    console.table(newWinnerIds);
   };
 
   const onClearWinnersClick = () => {
