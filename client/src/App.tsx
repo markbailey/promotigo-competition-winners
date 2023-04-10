@@ -1,4 +1,4 @@
-import { FormEvent, Fragment, useContext, useEffect, useState } from 'react';
+import { FormEvent, Fragment, useContext, useEffect } from 'react';
 
 import { DataContext } from './context/data';
 import { ReactComponent as InfoGraphic } from './assets/info-graphic.svg';
