@@ -1,0 +1,456 @@
+[
+  {
+    "Town": "Brighton",
+    "County": "East Sussex",
+    "Country": "England"
+  },
+  {
+    "Town": "Fort William",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Durham",
+    "County": "County Durham",
+    "Country": "England"
+  },
+  {
+    "Town": "Banchory",
+    "County": "Aberdeenshire",
+    "Country": "Scotland"
+  },
+  { "Town": "Lowestoft", "County": "Suffolk", "Country": "England" },
+  { "Town": "Falkirk", "County": "Falkirk", "Country": "Scotland" },
+  {
+    "Town": "Brixton",
+    "County": "Greater London",
+    "Country": "England"
+  },
+  {
+    "Town": "Peebles",
+    "County": "Scottish Borders",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Loughborough",
+    "County": "Leicestershire",
+    "Country": "England"
+  },
+  {
+    "Town": "Stirling",
+    "County": "Stirling",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Tunbridge Wells",
+    "County": "Kent",
+    "Country": "England"
+  },
+  {
+    "Town": "Lerwick",
+    "County": "Shetland Islands",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Blackburn",
+    "County": "Lancashire",
+    "Country": "England"
+  },
+  { "Town": "Keith", "County": "Moray", "Country": "Scotland" },
+  {
+    "Town": "Horsham",
+    "County": "West Sussex",
+    "Country": "England"
+  },
+  {
+    "Town": "Lochgilphead",
+    "County": "Argyll and Bute",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Ellon",
+    "County": "Aberdeenshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Wigan",
+    "County": "Greater Manchester",
+    "Country": "England"
+  },
+  {
+    "Town": "Duns",
+    "County": "Scottish Borders",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Kilmarnock",
+    "County": "East Ayrshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "St Austell",
+    "County": "Cornwall",
+    "Country": "England"
+  },
+  {
+    "Town": "Kinross",
+    "County": "Perth and Kinross",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Great Yarmouth",
+    "County": "Norfolk",
+    "Country": "England"
+  },
+  {
+    "Town": "Inverness",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Newton Abbot",
+    "County": "Devon",
+    "Country": "England"
+  },
+  {
+    "Town": "Hawick",
+    "County": "Scottish Borders",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Scunthorpe",
+    "County": "Lincolnshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Alloa",
+    "County": "Clackmannanshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Hastings",
+    "County": "East Sussex",
+    "Country": "England"
+  },
+  { "Town": "Brechin", "County": "Angus", "Country": "Scotland" },
+  {
+    "Town": "Kidderminster",
+    "County": "Worcestershire",
+    "Country": "England"
+  },
+  {
+    "Town": "Helensburgh",
+    "County": "Argyll and Bute",
+    "Country": "Scotland"
+  },
+  { "Town": "Widnes", "County": "Cheshire", "Country": "England" },
+  { "Town": "Buckie", "County": "Moray", "Country": "Scotland" },
+  {
+    "Town": "Sunderland",
+    "County": "Tyne and Wear",
+    "Country": "England"
+  },
+  {
+    "Town": "Dumbarton",
+    "County": "West Dunbartonshire",
+    "Country": "Scotland"
+  },
+  { "Town": "Exeter", "County": "Devon", "Country": "England" },
+  {
+    "Town": "Kelso",
+    "County": "Scottish Borders",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Carmarthen",
+    "County": "Carmarthenshire",
+    "Country": "Wales"
+  },
+  {
+    "Town": "Dingwall",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "York",
+    "County": "North Yorkshire",
+    "Country": "England"
+  },
+  { "Town": "Taunton", "County": "Somerset", "Country": "England" },
+  {
+    "Town": "Kingussie",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Pontefract",
+    "County": "West Yorkshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Kilmacolm",
+    "County": "Inverclyde",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Cheltenham",
+    "County": "Gloucestershire",
+    "Country": "England"
+  },
+  {
+    "Town": "Ullapool",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  { "Town": "Carlisle", "County": "Cumbria", "Country": "England" },
+  { "Town": "St Andrews", "County": "Fife", "Country": "Scotland" },
+  { "Town": "Bath", "County": "Somerset", "Country": "England" },
+  {
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Fraserburgh",
+    "County": "Aberdeenshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Leicester",
+    "County": "Leicestershire",
+    "Country": "England"
+  },
+  {
+    "Town": "Banff",
+    "County": "Aberdeenshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Oxford",
+    "County": "Oxfordshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Inverurie",
+    "County": "Aberdeenshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Warrington",
+    "County": "Cheshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Ayr",
+    "County": "South Ayrshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Castle Douglas",
+    "County": "Dumfries and Galloway",
+    "Country": "Scotland"
+  },
+  { "Town": "Guildford", "County": "Surrey", "Country": "England" },
+  {
+    "Town": "Edinburgh",
+    "County": "City of Edinburgh",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Salisbury",
+    "County": "Wiltshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Pitlochry",
+    "County": "Perth and Kinross",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Liverpool",
+    "County": "Merseyside",
+    "Country": "England"
+  },
+  { "Town": "Penrith", "County": "Cumbria", "Country": "England" },
+  {
+    "Town": "Isle of Skye",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Bristol",
+    "County": "City of Bristol",
+    "Country": "England"
+  },
+  {
+    "Town": "Dumfries",
+    "County": "Dumfries and Galloway",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Stockton-on-Tees",
+    "County": "County Durham",
+    "Country": "England"
+  },
+  {
+    "Town": "Aberdeen",
+    "County": "Aberdeen City",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Bournemouth",
+    "County": "Dorset",
+    "Country": "England"
+  },
+  {
+    "Town": "Kirkcudbright",
+    "County": "Dumfries and Galloway",
+    "Country": "Scotland"
+  },
+  { "Town": "Leven", "County": "Fife", "Country": "Scotland" },
+  {
+    "Town": "Manchester",
+    "County": "Greater Manchester",
+    "Country": "England"
+  },
+  { "Town": "Nairn", "County": "Highland", "Country": "Scotland" },
+  {
+    "Town": "Isle of Mull",
+    "County": "Argyll and Bute",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Southampton",
+    "County": "Hampshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Cairndow",
+    "County": "Argyll and Bute",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Belfast",
+    "County": "County Antrim",
+    "Country": "Northern Ireland"
+  },
+  {
+    "Town": "Harrogate",
+    "County": "North Yorkshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Troon",
+    "County": "South Ayrshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Banbridge",
+    "County": "County Down",
+    "Country": "Northern Ireland"
+  },
+  {
+    "Town": "Whitby",
+    "County": "North Yorkshire",
+    "Country": "England"
+  },
+  { "Town": "Kendal", "County": "Cumbria", "Country": "England" },
+  { "Town": "Devonport", "County": "Devon", "Country": "England" },
+  {
+    "Town": "Alnwick",
+    "County": "Northumberland",
+    "Country": "England"
+  },
+  {
+    "Town": "North Berwick",
+    "County": "East Lothian",
+    "Country": "Scotland"
+  },
+  { "Town": "Holyhead", "County": "Anglesey", "Country": "Wales" },
+  {
+    "Town": "Oban",
+    "County": "Argyll and Bute",
+    "Country": "Scotland"
+  },
+  { "Town": "Elgin", "County": "Moray", "Country": "Scotland" },
+  {
+    "Town": "Isle of Arran",
+    "County": "North Ayrshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Morpeth",
+    "County": "Northumberland",
+    "Country": "England"
+  },
+  {
+    "Town": "Portsmouth",
+    "County": "Hampshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Glenfinnan",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Stoke-on-Trent",
+    "County": "Staffordshire",
+    "Country": "England"
+  },
+  {
+    "Town": "Perth",
+    "County": "Perth and Kinross",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Troon",
+    "County": "South Ayrshire",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "NewTownabbey",
+    "County": "County Antrim",
+    "Country": "Northern Ireland"
+  },
+  {
+    "Town": "Peterborough",
+    "County": "Cambridgeshire",
+    "Country": "England"
+  },
+  {
+    "Town": "NewTownards",
+    "County": "County Down",
+    "Country": "Northern Ireland"
+  },
+  {
+    "Town": "Kinlochleven",
+    "County": "Highland",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "WigTown",
+    "County": "Dumfries and Galloway",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Glasgow",
+    "County": "Glasgow City",
+    "Country": "Scotland"
+  },
+  {
+    "Town": "Portadown",
+    "County": "County Armagh",
+    "Country": "Northern Ireland"
+  }
+]
