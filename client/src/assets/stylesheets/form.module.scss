@@ -1,0 +1,37 @@
+@use 'variables' as *;
+
+.form {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: var(--spacing-6);
+  padding: var(--spacing-6);
+}
+
+.formControl {
+  padding: var(--spacing-6);
+
+  &:not(:disabled) {
+    color: var(--black);
+    background-color: var(--off-white);
+    border: var(--border-1) #ccc;
+  }
+
+  &:focus {
+    border-color: var(--primary);
+  }
+}
+
+.buttonGroup {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-6);
+
+  > * {
+    flex: 1;
+  }
+
+  @media (min-width: $sm-min) {
+    flex-direction: row;
+  }
+}

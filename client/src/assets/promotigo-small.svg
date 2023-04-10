@@ -1,0 +1,11 @@
+<svg width="120" height="128" viewBox="0 0 120 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_721_3)">
+    <path d="M55.7351 0H0L64 64L0 128H55.7351L119.735 64L55.7351 0Z" fill="currentColor"/>
+    <path id="logoDot" d="M15.894 84.5563C25.1402 84.5563 32.6357 77.0608 32.6357 67.8146C32.6357 58.5684 25.1402 51.0728 15.894 51.0728C6.64784 51.0728 -0.847669 58.5684 -0.847669 67.8146C-0.847669 77.0608 6.64784 84.5563 15.894 84.5563Z" fill="currentColor"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_721_3">
+      <rect width="119.735" height="128" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

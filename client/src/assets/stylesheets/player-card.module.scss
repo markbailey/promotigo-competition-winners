@@ -1,0 +1,75 @@
+.card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+  max-width: 100%;
+  padding: var(--spacing-4) var(--spacing-6);
+  color: var(--secondary);
+  background-color: var(--off-white);
+  border: var(--border-3) var(--off-white);
+  overflow: hidden;
+  transition: background-color 0.25s ease-in-out, border-color 0.25s ease-in-out;
+
+  &::before {
+    content: 'PLAYER';
+    z-index: 0;
+    position: absolute;
+    inset: auto auto 0 0;
+    opacity: 0.05;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 0.75;
+    color: var(--secondary);
+  }
+}
+
+.text {
+  z-index: 10;
+  align-self: center;
+  flex: 1;
+
+  h2 {
+    margin: var(--spacing-0);
+    font-size: 1.25rem;
+    line-height: 1.1;
+    text-transform: uppercase;
+  }
+
+  span {
+    font-size: 1rem;
+  }
+}
+
+.iconContainer {
+  z-index: 0;
+  position: relative;
+  display: grid;
+  border-radius: 100%;
+  width: 4.875rem; // 78px;
+  height: 4.875rem; // 78px;
+  align-items: center;
+  justify-items: center;
+  background-color: rgb(var(--secondary-rgb) / 0.25);
+  color: var(--secondary);
+  outline: var(--border-6) rgb(var(--secondary-rgb) / 0.125);
+  margin-right: calc(var(--spacing-6) * -1);
+
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    inset: var(--spacing-0);
+    border-radius: 100%;
+  }
+
+  &::before {
+    inset: calc(var(--spacing-6) * -1);
+    outline: var(--border-10) rgb(var(--secondary-rgb) / 0.06125);
+  }
+
+  &::after {
+    inset: calc(var(--spacing-14) * -1);
+    outline: var(--border-14) rgb(var(--secondary-rgb) / 0.0306125);
+  }
+}
