@@ -10,6 +10,7 @@ function Loader(props: HTMLAttributes<HTMLElement>) {
   return (
     <div {...otherProps} className={newClassName}>
       <Logo width={64} height={64} />
+      <span>Loading, Please wait...</span>
     </div>
   );
 }

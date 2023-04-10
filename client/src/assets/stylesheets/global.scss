@@ -10,6 +10,7 @@
   --black: #1e1e1e;
   --gray: #898989;
 
+  --primary-rgb: 149 193 34;
   --secondary-rgb: 62 54 63;
   --danger-rgb: 193 63 34;
   --white-rgb: 247 247 247;
@@ -106,4 +107,20 @@ h6 {
     justify-content: center;
     padding: var(--spacing-6);
   }
+}
+
+@keyframes loaderB {
+  0% {
+    transform: translateY(-1rem) scale(1);
+  }
+  50% {
+    transform: translateY(0) scale(1.1);
+  }
+  100% {
+    transform: translateY(1rem) scale(1);
+  }
+}
+
+.logoDot {
+  animation: loaderB 1s linear infinite alternate;
 }
