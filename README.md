@@ -24,3 +24,12 @@ from the projects root directory.
 `npm start`
 
 Then hold CTRL & click on the link in the console to open the client app in the browser.
+
+### Testing
+
+To run the suit of tests, enter the following ocmmand in the console from the project
+root directory.
+
+`npm run test`
+
+FYI: The database needs to be setup and the server running to perform some tests.
