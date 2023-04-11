@@ -4,12 +4,12 @@
   "description": "technical assesssment",
   "main": "index.js",
   "scripts": {
-    "setup": "npm run setup:server && npm run setup:client",
+    "setup": "npm i && npm run setup:server && npm run setup:client",
     "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
     "start:server": "dotnet run --project server",
     "start:client": "cd ./client && npm run dev",
     "setup:server": "cd ./server && dotnet ef database update",
-    "setup:client": "cd ./client && npm install",
+    "setup:client": "cd ./client && npm i",
     "test": "cd ./client && npm run test"
   },
   "repository": {
